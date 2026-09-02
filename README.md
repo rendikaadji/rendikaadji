@@ -11,6 +11,8 @@
 
 <p align="center">
   <a href="https://github.com/rendikaadji"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-rendikaadji-0B1220?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/rendika-adji-putra-124815379/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rendika%20Adji%20Putra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/rendikaadji.py"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-rendikaadji.py-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 ## About Me
