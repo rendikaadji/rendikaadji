@@ -1,67 +1,80 @@
 {
   "$schema": "./profile.schema.json",
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
-    "status": "Learning / Building / Shipping",
+    "name": "Rendika Adji Putra",
+    "username": "rendikaadji",
+    "headline": "Full-Stack Dev | Laravel • Flutter • Python",
+    "affiliation": "Universitas Budi Luhur",
+    "location": "Jakarta, Indonesia",
+    "status": "Building & Learning",
     "about": [
-      "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
-      "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
+      "I build beautiful web and mobile solutions with clean code and modern technology.",
+      "Full-stack developer passionate about solving real-world problems through thoughtful software design and implementation."
     ]
   },
   "research": {
-    "primary": "AI Agents",
-    "direction": "Reliable autonomous systems",
-    "themes": "Tool use / evaluation / human control",
-    "narrative": "I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight."
+    "primary": "Full-Stack Development",
+    "direction": "Scalable web & mobile applications",
+    "themes": "Architecture / Performance / UX",
+    "narrative": "I focus on building systems that are not just functional but delightful to use. My approach combines technical excellence with understanding user needs and business requirements."
   },
   "focus": [
     {
-      "name": "AI Agents",
-      "description": "Autonomous workflows, tool use, evaluation, and reliable agent behavior."
+      "name": "Web Development",
+      "description": "Full-stack TALL stack (Tailwind, Alpine, Laravel, Livewire) with modern patterns and clean architecture."
     },
     {
-      "name": "Applied AI",
-      "description": "Turning model capabilities into useful and testable software systems."
+      "name": "Mobile Apps",
+      "description": "Cross-platform development with Flutter for iOS and Android, focusing on performance and user experience."
     },
     {
-      "name": "Developer Tools",
-      "description": "Better workflows for building, testing, and operating modern software."
+      "name": "API Design",
+      "description": "RESTful APIs with Sanctum/Passport authentication, solid design patterns, and comprehensive documentation."
     }
   ],
   "projects": [
     {
-      "name": "Project One",
-      "url": "https://github.com/yourusername/project-one",
-      "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
+      "name": "PlantGuardian Web",
+      "url": "https://github.com/rendikaadji/plantguardian-web",
+      "homepage": "https://plantguardian.net",
+      "focus": "Smart plant monitoring system",
+      "summary": "IoT-integrated plant monitoring dashboard with real-time sensor data visualization, user authentication, and mobile-responsive design.",
       "heroLabel": "Primary build"
     },
     {
-      "name": "Project Two",
-      "url": "https://github.com/yourusername/project-two",
+      "name": "Casting.id",
+      "url": "https://github.com/rendikaadji/casting.id",
       "homepage": "",
-      "focus": "Secondary project focus",
-      "summary": "A second project that supports the professional direction of this profile.",
+      "focus": "Talent casting platform",
+      "summary": "Platform connecting actors and filmmakers with user profiles, job listings, secure authentication, and application management.",
       "heroLabel": "Active system"
+    },
+    {
+      "name": "Smart Queue",
+      "url": "https://github.com/rendikaadji/smart-queue",
+      "homepage": "",
+      "focus": "Queue management system",
+      "summary": "Real-time queue management with analytics, notifications, and admin dashboard for efficient crowd management.",
+      "heroLabel": "In progress"
     }
   ],
   "techStack": [
-    "TypeScript",
-    "Next.js",
-    "Python",
+    "PHP",
+    "Laravel",
+    "Flutter",
+    "Dart",
+    "MySQL",
     "PostgreSQL",
-    "Playwright"
+    "Tailwind CSS",
+    "Alpine.js",
+    "Python",
+    "C++"
   ],
   "links": [
     {
       "label": "GitHub",
-      "value": "yourusername",
-      "url": "https://github.com/yourusername",
+      "value": "rendikaadji",
+      "url": "https://github.com/rendikaadji",
       "logo": "github",
       "color": "0B1220"
     }
@@ -73,5 +86,5 @@
   "appearance": {
     "palette": "signal"
   },
-  "footer": "Building thoughtful systems and sharing what works."
+  "footer": "Building digital solutions with clean code and modern technology."
 }
