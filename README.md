@@ -60,6 +60,20 @@ I focus on building systems that are not just functional but delightful to use. 
   <img src="https://img.shields.io/badge/Automation-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
 </p>
 
+## Contributions in the Last Year
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rendikaadji/rendikaadji/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rendikaadji/rendikaadji/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/rendikaadji/rendikaadji/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rendikaadji&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" width="100%">
+</p>
+
 ## GitHub Stats
 
 <p align="center">
