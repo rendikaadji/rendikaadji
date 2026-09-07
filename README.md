@@ -45,19 +45,18 @@ I focus on building systems that are not just functional but delightful to use. 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/Automation-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=white" alt="Alpine.js">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/AI_Agents-6C5CE7?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents">
+  <img src="https://img.shields.io/badge/Automation-2496ED?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automation">
 </p>
 
 ## Contributions in the Last Year
@@ -71,7 +70,7 @@ I focus on building systems that are not just functional but delightful to use. 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rendikaadji&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" width="100%">
+  <img src="./assets/metrics/metrics.svg" alt="GitHub Metrics" width="100%">
 </p>
 
 ## GitHub Stats
@@ -89,6 +88,8 @@ I focus on building systems that are not just functional but delightful to use. 
   <img src="https://github-profile-trophy.vercel.app/?username=rendikaadji&theme=tokyonight&no-frame=true&row=1&margin-w=10" alt="Trophies">
 </p>
 
+> ⚠️ Note: stats/streak/trophy cards above use free public services (Vercel/Heroku) that can be temporarily unavailable (503/402) during peak load. The **Metrics card** above is self-hosted via GitHub Actions and always up to date.
+
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
@@ -99,8 +100,4 @@ _Recent public activity will appear here after the workflow runs._
 
 <p align="center">
   Building digital solutions — and the AI agents that help build them.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rendikaadji&style=for-the-badge&color=0B1220" alt="Profile Views">
 </p>
