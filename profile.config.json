@@ -6,10 +6,11 @@
     "headline": "Full-Stack Dev | Laravel • Flutter • Python",
     "affiliation": "Universitas Budi Luhur",
     "location": "Jakarta, Indonesia",
-    "status": "Building & Learning",
+    "status": "Building AI Agents 🤖",
     "about": [
       "I build beautiful web and mobile solutions with clean code and modern technology.",
-      "Full-stack developer passionate about solving real-world problems through thoughtful software design and implementation."
+      "Full-stack developer passionate about solving real-world problems through thoughtful software design and implementation.",
+      "Currently developing a personal multi-agent AI system (autonomous coding & automation agents) to streamline my own dev workflow."
     ]
   },
   "research": {
@@ -30,6 +31,10 @@
     {
       "name": "API Design",
       "description": "RESTful APIs with Sanctum/Passport authentication, solid design patterns, and comprehensive documentation."
+    },
+    {
+      "name": "AI Agent Development",
+      "description": "Building and orchestrating autonomous AI agents for coding, automation, and workflow assistance — from tool integration to multi-agent coordination."
     }
   ],
   "projects": [
@@ -68,7 +73,9 @@
     "Tailwind CSS",
     "Alpine.js",
     "Python",
-    "C++"
+    "C++",
+    "AI Agents",
+    "Automation"
   ],
   "links": [
     {
@@ -86,5 +93,5 @@
   "appearance": {
     "palette": "signal"
   },
-  "footer": "Building digital solutions with clean code and modern technology."
+  "footer": "Building digital solutions — and the AI agents that help build them."
 }
