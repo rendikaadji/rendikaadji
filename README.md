@@ -76,19 +76,12 @@ I focus on building systems that are not just functional but delightful to use. 
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rendikaadji&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendikaadji&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rendikaadji&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rendikaadji&theme=tokyonight&no-frame=true&row=1&margin-w=10" alt="Trophies">
+  <img src="./assets/metrics/achievements.svg" alt="Achievements" width="100%">
 </p>
-
-> ⚠️ Note: stats/streak/trophy cards above use free public services (Vercel/Heroku) that can be temporarily unavailable (503/402) during peak load. The **Metrics card** above is self-hosted via GitHub Actions and always up to date.
 
 ## Recent Activity
 
