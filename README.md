@@ -23,20 +23,20 @@ Currently developing a personal multi-agent AI system (autonomous coding & autom
 
 ## Current Focus
 
-| Area | What I am exploring |
-| --- | --- |
-| **Web Development** | Full-stack TALL stack (Tailwind, Alpine, Laravel, Livewire) with modern patterns and clean architecture. |
-| **Mobile Apps** | Cross-platform development with Flutter for iOS and Android, focusing on performance and user experience. |
-| **API Design** | RESTful APIs with Sanctum/Passport authentication, solid design patterns, and comprehensive documentation. |
-| **AI Agent Development** | Building and orchestrating autonomous AI agents for coding, automation, and workflow assistance — from tool integration to multi-agent coordination. |
+|| Area | What I am exploring |
+|| --- | --- |
+|| **Web Development** | Full-stack TALL stack (Tailwind, Alpine, Laravel, Livewire) with modern patterns and clean architecture. |
+|| **Mobile Apps** | Cross-platform development with Flutter for iOS and Android, focusing on performance and user experience. |
+|| **API Design** | RESTful APIs with Sanctum/Passport authentication, solid design patterns, and comprehensive documentation. |
+|| **AI Agent Development** | Building and orchestrating autonomous AI agents for coding, automation, and workflow assistance — from tool integration to multi-agent coordination. |
 
 ## Featured Work
 
-| Project | Focus | Why it matters |
-| --- | --- | --- |
-| [**PlantGuardian Web**](https://github.com/rendikaadji/plantguardian-web) | Smart plant monitoring system | IoT-integrated plant monitoring dashboard with real-time sensor data visualization, user authentication, and mobile-responsive design. [Live](https://plantguardian.net) |
-| [**Casting.id**](https://github.com/rendikaadji/casting.id) | Talent casting platform | Platform connecting actors and filmmakers with user profiles, job listings, secure authentication, and application management. |
-| [**Smart Queue**](https://github.com/rendikaadji/smart-queue) | Queue management system | Real-time queue management with analytics, notifications, and admin dashboard for efficient crowd management. |
+|| Project | Focus | Why it matters |
+|| --- | --- | --- |
+|| [**PlantGuardian Web**](https://github.com/rendikaadji/plantguardian-web) | Smart plant monitoring system | IoT-integrated plant monitoring dashboard with real-time sensor data visualization, user authentication, and mobile-responsive design. [Live](https://plantguardian.net) |
+|| [**Casting.id**](https://github.com/rendikaadji/casting.id) | Talent casting platform | Platform connecting actors and filmmakers with user profiles, job listings, secure authentication, and application management. |
+|| [**Smart Queue**](https://github.com/rendikaadji/smart-queue) | Queue management system | Real-time queue management with analytics, notifications, and admin dashboard for efficient crowd management. |
 
 ## Research Direction
 
@@ -65,22 +65,22 @@ I focus on building systems that are not just functional but delightful to use. 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rendikaadji/rendikaadji/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rendikaadji/rendikaadji/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/rendikaadji/rendikaadji/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/rendikaadji/rendikaadji/output/github-contribution-grid-snake.svg" width="500">
   </picture>
 </p>
 
 <p align="center">
-  <img src="./assets/metrics/metrics.svg" alt="GitHub Metrics" width="100%">
+  <img src="./assets/metrics/metrics.svg" alt="GitHub Metrics" width="500">
 </p>
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rendikaadji&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=rendikaadji&show_icons=true&theme=tokyonight&hide=issues&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF&icon_color=79C0FF&border_color=30363D&border_radius=8" alt="GitHub Stats" width="500">
 </p>
 
 <p align="center">
-  <img src="./assets/metrics/achievements.svg" alt="Achievements" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendikaadji&theme=tokyonight&hide=issues&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF&border_color=30363D&border_radius=8" alt="Top Languages" width="500">
 </p>
 
 ## Recent Activity
