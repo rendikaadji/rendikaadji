@@ -62,21 +62,11 @@ I focus on building systems that are not just functional but delightful to use. 
 ## Contributions in the Last Year
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rendikaadji/rendikaadji/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rendikaadji/rendikaadji/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/rendikaadji/rendikaadji/output/github-contribution-grid-snake.svg" width="500">
-  </picture>
+  <img src="https://raw.githubusercontent.com/rendikaadji/rendikaadji/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="500">
 </p>
 
 <p align="center">
-  <img src="./assets/metrics/metrics.svg" alt="GitHub Metrics" width="500">
-</p>
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rendikaadji&show_icons=true&theme=tokyonight&hide=issues&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF&icon_color=79C0FF&border_color=30363D&border_radius=8" alt="GitHub Stats" width="500">
+  <img src="https://github-readme-stats.vercel.app/api?username=rendikaadji&show_icons=true&theme=tokyonight&hide=issues&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF&icon_color=79C0FF&border_color=30363D" alt="GitHub Stats" width="500">
 </p>
 
 <p align="center">
