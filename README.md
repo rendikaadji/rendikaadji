@@ -65,14 +65,22 @@ I focus on building systems that are not just functional but delightful to use. 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rendikaadji/rendikaadji/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rendikaadji/rendikaadji/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/rendikaadji/rendikaadji/output/github-contribution-grid-snake.svg" width="400">
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/rendikaadji/rendikaadji/output/github-contribution-grid-snake.svg">
   </picture>
+</p>
+
+<p align="center">
+  <img src="./assets/metrics/metrics.svg" alt="GitHub Metrics" width="100%">
 </p>
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rendikaadji&show_icons=true&theme=tokyonight&hide=issues&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF&icon_color=79C0FF&border_color=30363D&border_radius=8" alt="GitHub Stats" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rendikaadji&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="./assets/metrics/achievements.svg" alt="Achievements" width="100%">
 </p>
 
 ## Recent Activity
