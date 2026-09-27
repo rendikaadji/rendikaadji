@@ -8,15 +8,15 @@
     "location": "Jakarta, Indonesia",
     "status": "Building AI Agents 🤖",
     "about": [
-      "I build beautiful web and mobile solutions with clean code and modern technology.",
+      "I build **web and mobile products** end to end, from database and API design to the interface people actually touch. My daily stack is the **TALL stack** (Tailwind, Alpine, Laravel, Livewire) for the web and **Flutter** for iOS and Android.",
       "Full-stack developer passionate about solving real-world problems through thoughtful software design and implementation.",
-      "Currently developing a personal multi-agent AI system (autonomous coding & automation agents) to streamline my own dev workflow."
+      "Right now I am building a **personal multi-agent AI system**: autonomous coding and automation agents that plug into my own development workflow."
     ]
   },
   "research": {
-    "primary": "Full-Stack Development",
-    "direction": "Scalable web & mobile applications",
-    "themes": "Architecture / Performance / UX",
+    "primary": "Full-Stack Developer",
+    "direction": "Web · Mobile · REST APIs · AI agents",
+    "themes": "Clean architecture · Performance · UX",
     "narrative": "I focus on building systems that are not just functional but delightful to use. My approach combines technical excellence with understanding user needs and business requirements."
   },
   "focus": [
@@ -75,13 +75,15 @@
     "Python",
     "C++",
     "AI Agents",
-    "Automation"
+    "Automation",
+    "Livewire",
+    "Git"
   ],
   "links": [
     {
-      "label": "GitHub",
+      "label": "Repositories",
       "value": "rendikaadji",
-      "url": "https://github.com/rendikaadji",
+      "url": "https://github.com/rendikaadji?tab=repositories",
       "logo": "github",
       "color": "0B1220"
     }
@@ -93,5 +95,5 @@
   "appearance": {
     "palette": "ocean"
   },
-  "footer": "Building digital solutions — and the AI agents that help build them."
+  "footer": "Building digital solutions, and the AI agents that help build them."
 }
