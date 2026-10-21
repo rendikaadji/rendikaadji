@@ -157,11 +157,11 @@ now:       Building AI Agents
 
 <!-- AUTO:ACTIVITY:START -->
 - Oct 18, 2026: pushed 1 commit to [rendikaadji/Java-Web-Tugas-2](https://github.com/rendikaadji/Java-Web-Tugas-2).
+- Oct 20, 2026: merged pull request [#6](https://github.com/rendikaadji/pramu-flutter-apps) in [rendikaadji/pramu-flutter-apps](https://github.com/rendikaadji/pramu-flutter-apps).
+- Oct 20, 2026: opened pull request [#6](https://github.com/rendikaadji/pramu-flutter-apps) in [rendikaadji/pramu-flutter-apps](https://github.com/rendikaadji/pramu-flutter-apps).
+- Oct 20, 2026: merged pull request [#5](https://github.com/rendikaadji/pramu-flutter-apps) in [rendikaadji/pramu-flutter-apps](https://github.com/rendikaadji/pramu-flutter-apps).
+- Oct 20, 2026: opened pull request [#5](https://github.com/rendikaadji/pramu-flutter-apps) in [rendikaadji/pramu-flutter-apps](https://github.com/rendikaadji/pramu-flutter-apps).
 - Oct 18, 2026: created a branch in [rendikaadji/Java-Web-Tugas-2](https://github.com/rendikaadji/Java-Web-Tugas-2).
-- Oct 13, 2026: pushed 1 commit to [rendikaadji/catalog_product](https://github.com/rendikaadji/catalog_product).
-- Oct 13, 2026: created a branch in [rendikaadji/catalog_product](https://github.com/rendikaadji/catalog_product).
-- Oct 5, 2026: created a branch in [rendikaadji/dashboard_banjir-web](https://github.com/rendikaadji/dashboard_banjir-web).
-- Sep 29, 2026: created a branch in [rendikaadji/vision-lobster](https://github.com/rendikaadji/vision-lobster).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
