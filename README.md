@@ -156,12 +156,12 @@ now:       Building AI Agents
 ## ⚡ Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
-- Nov 9, 2026: created a branch in [rendikaadji/uts_web_mahir](https://github.com/rendikaadji/uts_web_mahir).
-- Nov 9, 2026: pushed 1 commit to [rendikaadji/uts_web_mahir](https://github.com/rendikaadji/uts_web_mahir).
-- Oct 31, 2026: created a branch in [rendikaadji/pramu-flutter-apps](https://github.com/rendikaadji/pramu-flutter-apps).
-- Oct 31, 2026: pushed 1 commit to [rendikaadji/pramu-flutter-apps](https://github.com/rendikaadji/pramu-flutter-apps).
-- Oct 31, 2026: merged pull request [#27](https://github.com/rendikaadji/pramu-flutter-apps) in [rendikaadji/pramu-flutter-apps](https://github.com/rendikaadji/pramu-flutter-apps).
-- Oct 31, 2026: merged pull request [#26](https://github.com/rendikaadji/pramu-flutter-apps) in [rendikaadji/pramu-flutter-apps](https://github.com/rendikaadji/pramu-flutter-apps).
+- Nov 17, 2026: created a branch in [rendikaadji/pramu-flutter-apps](https://github.com/rendikaadji/pramu-flutter-apps).
+- Nov 17, 2026: pushed 1 commit to [rendikaadji/pramu-flutter-apps](https://github.com/rendikaadji/pramu-flutter-apps).
+- Nov 17, 2026: pushed 1 commit to [rendikaadji/deteksi_yolo_tugas10_rendika](https://github.com/rendikaadji/deteksi_yolo_tugas10_rendika).
+- Nov 17, 2026: merged pull request [#31](https://github.com/rendikaadji/pramu-flutter-apps) in [rendikaadji/pramu-flutter-apps](https://github.com/rendikaadji/pramu-flutter-apps).
+- Nov 17, 2026: opened pull request [#31](https://github.com/rendikaadji/pramu-flutter-apps) in [rendikaadji/pramu-flutter-apps](https://github.com/rendikaadji/pramu-flutter-apps).
+- Nov 17, 2026: merged pull request [#30](https://github.com/rendikaadji/pramu-flutter-apps) in [rendikaadji/pramu-flutter-apps](https://github.com/rendikaadji/pramu-flutter-apps).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
