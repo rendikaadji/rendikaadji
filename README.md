@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Rendika Adji Putra 👋</h1>
-
-<h3 align="center">Full-Stack Developer · Laravel · Flutter · Java · Python</h3>
+<p align="center">
+  <img src="./assets/header.svg" alt="Rendika Adji Putra, Full-Stack Developer" width="100%">
+</p>
 
 <p align="center">
   <img alt="Location" src="https://img.shields.io/badge/Jakarta%2C_Indonesia-0B1220?style=for-the-badge&logo=googlemaps&logoColor=38BDF8">

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 190" width="100%" role="img" aria-label="Rendika Adji Putra, Full-Stack Developer">
+<defs>
+<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#38BDF8"><animate attributeName="stop-color" values="#38BDF8;#A78BFA;#34D399;#38BDF8" dur="8s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#A78BFA"><animate attributeName="stop-color" values="#A78BFA;#34D399;#38BDF8;#A78BFA" dur="8s" repeatCount="indefinite"/></stop></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1220"/><stop offset="1" stop-color="#111C33"/></linearGradient>
+</defs>
+<style>.name{font:700 40px 'SF Mono',Menlo,Consolas,monospace;fill:#F1F5F9}.role{font:500 22px 'SF Mono',Menlo,Consolas,monospace;fill:#38BDF8}</style>
+<rect width="900" height="190" rx="18" fill="url(#bg)"/>
+<rect x="1" y="1" width="898" height="188" rx="17" fill="none" stroke="url(#g)" stroke-width="2"/>
+<text x="450" y="78" text-anchor="middle" class="name">Rendika Adji Putra</text>
+<text x="450" y="128" text-anchor="middle" class="role" opacity="0"><animate attributeName="opacity" dur="12.5s" repeatCount="indefinite" keyTimes="0;0.16;0.2;1" values="1;1;0;0"/>Full-Stack Developer</text>
+<text x="450" y="128" text-anchor="middle" class="role" opacity="0"><animate attributeName="opacity" dur="12.5s" repeatCount="indefinite" keyTimes="0;0.2;0.24;0.36;0.4;1" values="0;0;1;1;0;0"/>Laravel · Livewire</text>
+<text x="450" y="128" text-anchor="middle" class="role" opacity="0"><animate attributeName="opacity" dur="12.5s" repeatCount="indefinite" keyTimes="0;0.4;0.44;0.56;0.6;1" values="0;0;1;1;0;0"/>Flutter · Dart</text>
+<text x="450" y="128" text-anchor="middle" class="role" opacity="0"><animate attributeName="opacity" dur="12.5s" repeatCount="indefinite" keyTimes="0;0.6;0.64;0.76;0.8;1" values="0;0;1;1;0;0"/>Java · Python</text>
+<text x="450" y="128" text-anchor="middle" class="role" opacity="0"><animate attributeName="opacity" dur="12.5s" repeatCount="indefinite" keyTimes="0;0.8;0.84;0.96;1.0" values="0;0;1;1;0"/>Building AI Agents</text>
+<rect x="300" y="152" width="300" height="4" rx="2" fill="url(#g)"><animate attributeName="width" values="40;300;40" dur="4s" repeatCount="indefinite"/><animate attributeName="x" values="430;300;430" dur="4s" repeatCount="indefinite"/></rect>
+</svg>
