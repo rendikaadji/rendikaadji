@@ -47,9 +47,9 @@
       "heroLabel": "Primary build"
     },
     {
-      "name": "Casting.id",
-      "url": "https://github.com/rendikaadji/casting.id",
-      "homepage": "",
+      "name": "BigBox Web",
+      "url": "https://bigboxtalenta.com",
+      "homepage": "https://bigboxtalenta.com",
       "focus": "Talent casting platform",
       "summary": "Platform connecting actors and filmmakers with user profiles, job listings, secure authentication, and application management.",
       "heroLabel": "Active system"

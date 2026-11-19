@@ -60,9 +60,9 @@ approach:  Clean architecture · Performance · UX
       <a href="https://plantguardian.net"><img alt="Live Demo" src="https://img.shields.io/badge/Live_Demo-0B1220?style=flat-square&logo=googlechrome&logoColor=38BDF8"></a>
     </td>
     <td width="33%" valign="top">
-      <h4>🎬 Casting.id</h4>
-      Platform connecting actors and filmmakers with profiles, job listings and application management.<br><br>
-      <a href="https://github.com/rendikaadji/casting.id"><img alt="Repository" src="https://img.shields.io/badge/Repository-0B1220?style=flat-square&logo=github&logoColor=38BDF8"></a>
+      <h4>🎬 BigBox Web</h4>
+      Talent platform connecting actors and filmmakers with profiles, job listings and application management.<br><br>
+      <a href="https://bigboxtalenta.com"><img alt="Live Demo" src="https://img.shields.io/badge/Live_Demo-0B1220?style=flat-square&logo=googlechrome&logoColor=38BDF8"></a>
     </td>
     <td width="33%" valign="top">
       <h4>⏱️ Smart Queue</h4>
