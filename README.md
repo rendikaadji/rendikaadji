@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Rendika Adji Putra, Full-Stack Developer" width="100%">
+  <img src="./assets/header-a2c2132e.svg" alt="Rendika Adji Putra, Full-Stack Developer" width="100%">
 </p>
 
 <p align="center">
