@@ -3,7 +3,7 @@
   "profile": {
     "name": "Rendika Adji Putra",
     "username": "rendikaadji",
-    "headline": "Full-Stack Dev | Laravel • Flutter • Python",
+    "headline": "Full-Stack Dev | Laravel • Flutter • Java • Python",
     "affiliation": "Universitas Budi Luhur",
     "location": "Jakarta, Indonesia",
     "status": "Building AI Agents 🤖",
@@ -64,6 +64,7 @@
     }
   ],
   "techStack": [
+    "Java",
     "PHP",
     "Laravel",
     "Flutter",

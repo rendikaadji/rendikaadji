@@ -1,50 +1,51 @@
-<h3 align="center">Full-Stack Dev · Laravel · Flutter · Python</h3>
+<h1 align="center">Hi, I'm Rendika Adji Putra 👋</h1>
+
+<h3 align="center">Full-Stack Developer · Laravel · Flutter · Java · Python</h3>
 
 <p align="center">
-  <img alt="Location" src="https://img.shields.io/badge/Jakarta%2C_Indonesia-0B1220?style=flat-square&logo=googlemaps&logoColor=38BDF8">
-  <img alt="Affiliation" src="https://img.shields.io/badge/Universitas_Budi_Luhur-0B1220?style=flat-square&logo=bookstack&logoColor=38BDF8">
-  <img alt="Status" src="https://img.shields.io/badge/Building_AI_Agents-0B1220?style=flat-square&logo=probot&logoColor=38BDF8">
-  <a href="https://github.com/rendikaadji?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Repositories-0B1220?style=flat-square&logo=github&logoColor=38BDF8"></a>
+  <img alt="Location" src="https://img.shields.io/badge/Jakarta%2C_Indonesia-0B1220?style=for-the-badge&logo=googlemaps&logoColor=38BDF8">
+  <img alt="Affiliation" src="https://img.shields.io/badge/Universitas_Budi_Luhur-0B1220?style=for-the-badge&logo=bookstack&logoColor=38BDF8">
+  <img alt="Status" src="https://img.shields.io/badge/Building_AI_Agents-0B1220?style=for-the-badge&logo=probot&logoColor=38BDF8">
+</p>
+
+<p align="center">
+  <a href="https://github.com/rendikaadji?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Browse_my_repositories-38BDF8?style=for-the-badge&logo=github&logoColor=0B1220"></a>
 </p>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-I build **web and mobile products** end to end, from database and API design to the interface people actually touch. My daily stack is the **TALL stack** (Tailwind, Alpine, Laravel, Livewire) for the web and **Flutter** for iOS and Android.
-
-Full-stack developer passionate about solving real-world problems through thoughtful software design and implementation.
-
-Right now I am building a **personal multi-agent AI system**: autonomous coding and automation agents that plug into my own development workflow.
+I build **web and mobile products** end to end, from database and API design to the interface people actually touch. I work mostly with **Laravel** and the TALL stack on the web, **Flutter** and **Java** on mobile and desktop, and **Python** for computer vision and AI. Right now I am building a **personal multi-agent AI system** that plugs into my own development workflow.
 
 ```yaml
 role:      Full-Stack Developer
 building:  Web · Mobile · REST APIs · AI agents
+languages: Java · PHP · Python · Dart · JavaScript
 approach:  Clean architecture · Performance · UX
-now:       Building AI Agents
 ```
 
-## 🎯 Current Focus
+## 🎯 What I Do
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h4>🌐 Web Development</h4>
-      Full-stack TALL stack (Tailwind, Alpine, Laravel, Livewire) with modern patterns and clean architecture.
+      Laravel, Livewire, Tailwind and Alpine with clean architecture and responsive interfaces.
     </td>
     <td width="50%" valign="top">
       <h4>📱 Mobile Apps</h4>
-      Cross-platform development with Flutter for iOS and Android, focusing on performance and user experience.
+      Cross-platform Flutter apps for iOS and Android, plus Java-based apps.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>🔌 API Design</h4>
-      RESTful APIs with Sanctum/Passport authentication, solid design patterns, and comprehensive documentation.
+      RESTful APIs with Sanctum authentication, solid patterns and clear documentation.
     </td>
     <td width="50%" valign="top">
-      <h4>🤖 AI Agent Development</h4>
-      Building and orchestrating autonomous AI agents for coding, automation, and workflow assistance — from tool integration to multi-agent coordination.
+      <h4>🤖 AI &amp; Computer Vision</h4>
+      Python vision projects (object detection) and autonomous AI agents for coding and automation.
     </td>
   </tr>
 </table>
@@ -55,53 +56,56 @@ now:       Building AI Agents
   <tr>
     <td width="33%" valign="top">
       <h4>🌱 PlantGuardian Web</h4>
-      <img alt="Smart plant monitoring system" src="https://img.shields.io/badge/Smart_plant_monitoring_system-16A34A?style=flat-square"><br><br>
-      IoT-integrated plant monitoring dashboard with real-time sensor data visualization, user authentication, and mobile-responsive design.<br><br>
+      IoT plant monitoring dashboard with real-time sensor data, authentication and a mobile-responsive layout.<br><br>
       <a href="https://plantguardian.net"><img alt="Live Demo" src="https://img.shields.io/badge/Live_Demo-0B1220?style=for-the-badge&logo=googlechrome&logoColor=38BDF8"></a>
     </td>
     <td width="33%" valign="top">
       <h4>🎬 Casting.id</h4>
-      <img alt="Talent casting platform" src="https://img.shields.io/badge/Talent_casting_platform-DB2777?style=flat-square"><br><br>
-      Platform connecting actors and filmmakers with user profiles, job listings, secure authentication, and application management.<br><br>
+      Platform connecting actors and filmmakers with profiles, job listings and application management.<br><br>
       <a href="https://github.com/rendikaadji/casting.id"><img alt="Repository" src="https://img.shields.io/badge/Repository-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8"></a>
     </td>
     <td width="33%" valign="top">
       <h4>⏱️ Smart Queue</h4>
-      <img alt="Queue management system" src="https://img.shields.io/badge/Queue_management_system-2563EB?style=flat-square"><br><br>
-      Real-time queue management with analytics, notifications, and admin dashboard for efficient crowd management.<br><br>
+      Real-time queue management with analytics, notifications and an admin dashboard.<br><br>
       <a href="https://github.com/rendikaadji/smart-queue"><img alt="Repository" src="https://img.shields.io/badge/Repository-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8"></a>
     </td>
   </tr>
 </table>
 
-## 🧭 Engineering Philosophy
-
-> I focus on building systems that are not just functional but delightful to use. My approach combines technical excellence with understanding user needs and business requirements.
-
 ## 🛠️ Tech Stack
 
 <table>
   <tr>
+    <td align="right"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C%2B%2B">
+    </td>
+  </tr>
+  <tr>
     <td align="right"><b>Backend</b></td>
     <td>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
       <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire">
+      <img src="https://img.shields.io/badge/REST_API-0B1220?style=for-the-badge&logo=postman&logoColor=38BDF8" alt="REST_API">
     </td>
   </tr>
   <tr>
     <td align="right"><b>Frontend</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind_CSS">
       <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black" alt="Alpine.js">
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
     </td>
   </tr>
   <tr>
     <td align="right"><b>Mobile</b></td>
     <td>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
     </td>
   </tr>
   <tr>
@@ -114,10 +118,10 @@ now:       Building AI Agents
   <tr>
     <td align="right"><b>AI &amp; Tools</b></td>
     <td>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-      <img src="https://img.shields.io/badge/AI_Agents-6C5CE7?style=for-the-badge&logo=probot&logoColor=white" alt="AI Agents">
-      <img src="https://img.shields.io/badge/Automation-2496ED?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automation">
+      <img src="https://img.shields.io/badge/Computer_Vision-6C5CE7?style=for-the-badge&logo=probot&logoColor=white" alt="Computer_Vision">
+      <img src="https://img.shields.io/badge/AI_Agents-6C5CE7?style=for-the-badge&logo=probot&logoColor=white" alt="AI_Agents">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub_Actions">
     </td>
   </tr>
 </table>
