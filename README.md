@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  <img alt="Location" src="https://img.shields.io/badge/Jakarta%2C_Indonesia-0B1220?style=for-the-badge&logo=googlemaps&logoColor=38BDF8">
-  <img alt="Affiliation" src="https://img.shields.io/badge/Universitas_Budi_Luhur-0B1220?style=for-the-badge&logo=bookstack&logoColor=38BDF8">
-  <img alt="Status" src="https://img.shields.io/badge/Building_AI_Agents-0B1220?style=for-the-badge&logo=probot&logoColor=38BDF8">
+  <img alt="Location" src="https://img.shields.io/badge/Jakarta%2C_Indonesia-0B1220?style=flat-square&logo=googlemaps&logoColor=38BDF8">
+  <img alt="Affiliation" src="https://img.shields.io/badge/Universitas_Budi_Luhur-0B1220?style=flat-square&logo=bookstack&logoColor=38BDF8">
+  <img alt="Status" src="https://img.shields.io/badge/Building_AI_Agents-0B1220?style=flat-square&logo=probot&logoColor=38BDF8">
 </p>
 
 <p align="center">
-  <a href="https://github.com/rendikaadji?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Browse_my_repositories-38BDF8?style=for-the-badge&logo=github&logoColor=0B1220"></a>
+  <a href="https://github.com/rendikaadji?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Browse_my_repositories-38BDF8?style=flat-square&logo=github&logoColor=0B1220"></a>
 </p>
 
 ---
@@ -57,17 +57,17 @@ approach:  Clean architecture · Performance · UX
     <td width="33%" valign="top">
       <h4>🌱 PlantGuardian Web</h4>
       IoT plant monitoring dashboard with real-time sensor data, authentication and a mobile-responsive layout.<br><br>
-      <a href="https://plantguardian.net"><img alt="Live Demo" src="https://img.shields.io/badge/Live_Demo-0B1220?style=for-the-badge&logo=googlechrome&logoColor=38BDF8"></a>
+      <a href="https://plantguardian.net"><img alt="Live Demo" src="https://img.shields.io/badge/Live_Demo-0B1220?style=flat-square&logo=googlechrome&logoColor=38BDF8"></a>
     </td>
     <td width="33%" valign="top">
       <h4>🎬 Casting.id</h4>
       Platform connecting actors and filmmakers with profiles, job listings and application management.<br><br>
-      <a href="https://github.com/rendikaadji/casting.id"><img alt="Repository" src="https://img.shields.io/badge/Repository-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8"></a>
+      <a href="https://github.com/rendikaadji/casting.id"><img alt="Repository" src="https://img.shields.io/badge/Repository-0B1220?style=flat-square&logo=github&logoColor=38BDF8"></a>
     </td>
     <td width="33%" valign="top">
       <h4>⏱️ Smart Queue</h4>
       Real-time queue management with analytics, notifications and an admin dashboard.<br><br>
-      <a href="https://github.com/rendikaadji/smart-queue"><img alt="Repository" src="https://img.shields.io/badge/Repository-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8"></a>
+      <a href="https://github.com/rendikaadji/smart-queue"><img alt="Repository" src="https://img.shields.io/badge/Repository-0B1220?style=flat-square&logo=github&logoColor=38BDF8"></a>
     </td>
   </tr>
 </table>
@@ -78,50 +78,50 @@ approach:  Clean architecture · Performance · UX
   <tr>
     <td align="right"><b>Languages</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C%2B%2B">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C%2B%2B">
     </td>
   </tr>
   <tr>
     <td align="right"><b>Backend</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-      <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire">
-      <img src="https://img.shields.io/badge/REST_API-0B1220?style=for-the-badge&logo=postman&logoColor=38BDF8" alt="REST_API">
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
+      <img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white" alt="Livewire">
+      <img src="https://img.shields.io/badge/REST_API-0B1220?style=flat-square&logo=postman&logoColor=38BDF8" alt="REST_API">
     </td>
   </tr>
   <tr>
     <td align="right"><b>Frontend</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind_CSS">
-      <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black" alt="Alpine.js">
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind_CSS">
+      <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black" alt="Alpine.js">
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js">
     </td>
   </tr>
   <tr>
     <td align="right"><b>Mobile</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
     </td>
   </tr>
   <tr>
     <td align="right"><b>Database</b></td>
     <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
     </td>
   </tr>
   <tr>
     <td align="right"><b>AI &amp; Tools</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Computer_Vision-6C5CE7?style=for-the-badge&logo=probot&logoColor=white" alt="Computer_Vision">
-      <img src="https://img.shields.io/badge/AI_Agents-6C5CE7?style=for-the-badge&logo=probot&logoColor=white" alt="AI_Agents">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub_Actions">
+      <img src="https://img.shields.io/badge/Computer_Vision-6C5CE7?style=flat-square&logo=probot&logoColor=white" alt="Computer_Vision">
+      <img src="https://img.shields.io/badge/AI_Agents-6C5CE7?style=flat-square&logo=probot&logoColor=white" alt="AI_Agents">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub_Actions">
     </td>
   </tr>
 </table>
